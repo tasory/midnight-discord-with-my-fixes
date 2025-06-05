@@ -13,6 +13,14 @@
 /* import theme modules */
 @import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
 
+#app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.content_c48ade,
+#app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div.bar_c38106.theme-dark.images-dark {
+    background-color: var(--bg-3) !important;
+}
+
+.guilds_c48ade {
+    background-color: var(--bg-4) !important;
+}
 body {
     /* font, change to '' for default discord font */
     --font: 'figtree'; /* change to '' for default discord font */
